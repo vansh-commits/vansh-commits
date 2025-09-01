@@ -17,27 +17,37 @@
 ### 🛠 **Tech Stack**
 
 #### 💻 Languages  
-![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg "Java")&nbsp;
-![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg "JavaScript")&nbsp;
-![Go](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg "GoLang")&nbsp;
-![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg "Python")
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40" alt="GoLang" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+</p>
 
 #### 🎨 Frontend  
-![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg "React.js")&nbsp;
-![Next.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg "Next.js")
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js" />
+</p>
 
 #### ⚙ Backend  
-![Express](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg "Express.js")&nbsp;
-![Go](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg "GoLang APIs")
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40" alt="GoLang APIs" />
+</p>
 
 #### ☁ DevOps & Cloud  
-![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg "Docker")&nbsp;
-![AWS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg "AWS")&nbsp;
-![Cloudflare](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg "Cloudflare")
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
+  <img src="https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" width="40" height="40" alt="Cloudflare" />
+</p>
 
 #### 🔑 Authentication  
-![OAuth2](https://img.shields.io/badge/OAuth2-4285F4?style=for-the-badge&logo=google&logoColor=white)
-
+<p>
+  <img src="https://img.shields.io/badge/OAuth2-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="OAuth2" />
+</p>
 
 ---
 
@@ -65,13 +75,13 @@
 
 ### 🌐 **Connect With Me**
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile">
+  <a href="https://linkedin.com/in/malhotra-vansh" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/your-profile">
+  <a href="https://x.com/malhotra439" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://your-portfolio-link.com">
+  <a href="[https://your-portfolio-link.com](https://portfolio-delta-ten-ic9r306w47.vercel.app/)" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23FF7139.svg?&style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
 </p>
@@ -80,7 +90,7 @@
 
 ### ☕ **Support My Work**
 <p align="center">
-  <a href="https://www.buymeacoffee.com/your-link">
+  <a href="https://portfolio-delta-ten-ic9r306w47.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
   </a>
 </p>
