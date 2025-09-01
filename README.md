@@ -15,20 +15,29 @@
 ---
 
 ### 🛠 **Tech Stack**
-#### 💻 Languages:
-`Java` `JavaScript` `GoLang` `Python`  
 
-#### 🎨 Frontend:
-`React.js` `Next.js`  
+#### 💻 Languages  
+![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg "Java")&nbsp;
+![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg "JavaScript")&nbsp;
+![Go](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg "GoLang")&nbsp;
+![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg "Python")
 
-#### ⚙ Backend:
-`Express.js` `GoLang APIs`  
+#### 🎨 Frontend  
+![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg "React.js")&nbsp;
+![Next.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg "Next.js")
 
-#### ☁ DevOps & Cloud:
-`Docker` `AWS` `Cloudflare`  
+#### ⚙ Backend  
+![Express](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg "Express.js")&nbsp;
+![Go](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg "GoLang APIs")
 
-#### 🔑 Authentication:
-`oAuth2`  
+#### ☁ DevOps & Cloud  
+![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg "Docker")&nbsp;
+![AWS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg "AWS")&nbsp;
+![Cloudflare](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg "Cloudflare")
+
+#### 🔑 Authentication  
+![OAuth2](https://img.shields.io/badge/OAuth2-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
 
 ---
 
