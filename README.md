@@ -81,7 +81,7 @@
   <a href="https://x.com/malhotra439" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https;//themalhotra.co.in" target="_blank">
+  <a href="https://themalhotra.co.in" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23FF7139.svg?&style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
 </p>
